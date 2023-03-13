@@ -1,5 +1,7 @@
 # OnlineJudge 2.0
 
+## 声明：本版本为qduoj的完全复制版本，暂时尚未做任何更改
+
 [![Python](https://img.shields.io/badge/python-3.8.0-blue.svg?style=flat-square)](https://www.python.org/downloads/release/python-362/)
 [![Django](https://img.shields.io/badge/django-3.2.9-blue.svg?style=flat-square)](https://www.djangoproject.com/)
 [![Django Rest Framework](https://img.shields.io/badge/django_rest_framework-3.12.0-blue.svg?style=flat-square)](http://www.django-rest-framework.org/)
@@ -83,3 +85,4 @@ Modern browsers(chrome, firefox) 和 Internet Explorer 10+.
 ## 许可
 
 The [MIT](http://opensource.org/licenses/MIT) License
+
